@@ -18,8 +18,7 @@ const alex = {
     role: "Full-Stack Developer",
     passions: ["Automation", "AI/ML", "Open Source", "Creative Coding"],
     motto: "Build. Break. Rebuild. Repeat.",
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    currentFocus: "Building scalable web and mobile applications",
 };
 ```
 
