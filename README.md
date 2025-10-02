@@ -21,13 +21,6 @@
 - 🕵️‍♂️ Always seeking new challenges.
 
 ---
-
-## 🚀 My Skills
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1lMTVkeWlvMmJlOGtmbzdqY3ozNDNjMG05YjU1NWdnb3N5cGF6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Typing Code" width="350"/>
-</p>
----
-
 ## 💻 Tech Stack
 
 <div align="center">
