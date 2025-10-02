@@ -34,11 +34,10 @@
 ---
 ## 🌟 Featured Projects
 <p align="center">
-  <a href="https://aristoc.co.ug/">
-  <img src="https://giphy.com/gifs/drawify-6DZ8k92zhbw5XGg5EL" alt="Projects" width="250"/>
-    </a>
+  <a href="https://aristoc.co.ug/" target="_blank">
+    <img src="https://media.giphy.com/media/6DZ8k92zhbw5XGg5EL/giphy.gif" alt="Projects" width="250"/>
+  </a>
 </p>
-
 ---
 
 ## 📫 Connect with Me
