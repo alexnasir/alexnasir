@@ -83,22 +83,7 @@ const alex = {
   <img src="https://github-profile-trophy.vercel.app/?username=alexnasir&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
----
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏢 [**Aristoc Uganda**](https://aristoc.co.ug/) | Corporate website solution | React, Node.js, Modern UI |
-| 🚀 More coming soon... | Check out my repositories! | Various |
-
-<a href="https://github.com/alexnasir?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
-</a>
-
-</div>
 
 ---
 
@@ -110,7 +95,7 @@ const alex = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexnasir)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254713386680)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexnasiali45@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aristoc.co.ug/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-gamma-nine-94.vercel.app/)
 
 </div>
 
