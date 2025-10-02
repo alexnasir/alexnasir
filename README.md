@@ -46,7 +46,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nasiali-5076b1372/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/254713386680)
 [![Email](https://img.shields.io/badge/-Email-d14836?logo=gmail&logoColor=white)](mailto:alexnasiali45@gmail.com)
 
 ---
