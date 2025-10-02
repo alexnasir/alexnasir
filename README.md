@@ -116,17 +116,6 @@ const alex = {
 
 ---
 
-<div align="center">
-
-### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/alexnasir/alexnasir/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" width="100%" />
 
 **⭐️ From [alexnasir](https://github.com/alexnasir) with ❤️**
 
