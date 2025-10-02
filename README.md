@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Alex Nasiali
+# 👋 Hi, I'm Alex
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 
