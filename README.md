@@ -38,7 +38,7 @@
     <img src="https://media.giphy.com/media/6DZ8k92zhbw5XGg5EL/giphy.gif" alt="Projects" width="250"/>
   </a>
 </p>
----
+
 
 ## 📫 Connect with Me
 <p align="center">
