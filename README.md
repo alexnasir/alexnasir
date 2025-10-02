@@ -1,7 +1,7 @@
 <!-- Profile README with decrypting/typewriter effect GIFs -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVpRGnJkQ5Wgxy/giphy.gif" alt="Typewriter Effect" width="400"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Typewriter Effect" width="400"/>
 </p>
 
 <h1 align="center">Hi there, I'm Alex!</h1>
