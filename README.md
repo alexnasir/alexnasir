@@ -50,6 +50,21 @@
 [![Email](https://img.shields.io/badge/-Email-d14836?logo=gmail&logoColor=white)](mailto:alexnasiali45@gmail.com)
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?alexnasir&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnasir&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexnasir&theme=radical&hide_border=true)
+
+</div>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Thank You!!" width="300"/>
