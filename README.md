@@ -82,7 +82,8 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnasir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=alexnasir&theme=tokyo-night&hide_border=true&area=true" />
 
-</div
+</div>
+
 ---
 ---
 
