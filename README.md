@@ -34,7 +34,9 @@
 ---
 ## 🌟 Featured Projects
 <p align="center">
-  <img src="https://aristoc.co.ug/" alt="Highlight" width="250"/>
+  <a href="https://aristoc.co.ug/">
+  <img src="https://giphy.com/gifs/drawify-6DZ8k92zhbw5XGg5EL" alt="Projects" width="250"/>
+    </a>
 </p>
 
 ---
