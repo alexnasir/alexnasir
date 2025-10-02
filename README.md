@@ -27,21 +27,15 @@
   <img src="https://media.giphy.com/media/cIT43L9lJc3l6/giphy.gif" alt="Typing Code" width="350"/>
 </p>
 
-- **Languages:** Python, JavaScript, TypeScript, Go
-- **Frameworks:** React, Node.js, FastAPI
-- **Tools:** Docker, Git, Linux, CI/CD
+- **Languages:** Python, JavaScript, TypeScript, Go,Php,Tailwind-css,React Native
+- **Frameworks:** React, Node.js, Flask, Laravel, Expo
+- **Tools:** Docker, Git, Linux, CI/CD, Figma, Adobe Xd
 
 ---
-
 ## 🌟 Featured Projects
 <p align="center">
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" alt="Highlight" width="250"/>
 </p>
-
-| Project | Description | Demo |
-| ------- | ----------- | ---- |
-| [DecryptoChat](https://github.com/alexnasial/decrypto-chat) | End-to-end encrypted chat app | ![Chat GIF](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif) |
-| [Typewriter Portfolio](https://github.com/alexnasial/typewriter-portfolio) | Portfolio with animated typing effect | ![Typewriter GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) |
 
 ---
 
@@ -50,12 +44,12 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Neon Decrypt" width="250"/>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nasiali-5076b1372/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
-[![Email](https://img.shields.io/badge/-Email-d14836?logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+[![Email](https://img.shields.io/badge/-Email-d14836?logo=gmail&logoColor=white)](mailto:alexnasiali45@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Thanks Typing" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Thank You!!" width="300"/>
 </p>
