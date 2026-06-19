@@ -134,7 +134,7 @@ const alex = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/alex-nasiali-5076b1372/))
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://nasialialex.vercel.app/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_GITHUB)
 
