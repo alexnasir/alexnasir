@@ -136,7 +136,7 @@ const alex = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://nasialialex.vercel.app/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/alexnasir)
 
 </div>
 
