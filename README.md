@@ -132,7 +132,7 @@ const alex = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/alex-nasiali-5076b1372/))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_PORTFOLIO)
 
