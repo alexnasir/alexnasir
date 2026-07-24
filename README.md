@@ -2,58 +2,90 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Engineer+💻;AI+Engineer+🤖;Full-Stack+Developer+🌐;Mobile+Application+Developer+📱;Cloud+%26+DevOps+Explorer+☁️;Building+LLM-Powered+Applications+🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+💻;Mobile+Application+Developer+📱;SEO+Enthusiast+📈;AI+Solutions+Builder+🤖;Cloud+%26+DevOps+Explorer+☁️;Open+Source+Contributor+✨" alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```typescript
 const alex = {
   name: "Alex Nasiali",
   location: "Nairobi, Kenya 🇰🇪",
-  role: "Software Engineer | AI Engineer",
-
-  specializations: [
-    "AI Engineering",
-    "Full-Stack Development",
+  role: "Full-Stack & Mobile Application Developer",
+  experience: [
+    "Web Development",
     "Mobile Development",
-    "Cloud Engineering",
-    "DevOps"
+    "SEO Optimization",
+    "Cloud Infrastructure",
+    "AI Integrations"
   ],
-
   currentFocus: [
-    "LLM Applications",
-    "AI Agents",
-    "Retrieval-Augmented Generation (RAG)",
-    "Enterprise Systems",
-    "Cloud-native Architectures"
+    "Scalable Applications",
+    "Search Engine Optimization",
+    "AI-Powered Systems",
+    "DevOps Automation"
   ],
-
-  motto: "Building intelligent software that solves real-world problems."
+  motto: "Transforming ideas into scalable digital solutions."
 };
 ```
 
-## 👨‍💻 What I Do
+### 👨‍💻 What I Do
 
-- 🤖 Build AI-powered applications using Large Language Models (LLMs)
-- 🧠 Design Retrieval-Augmented Generation (RAG) systems
-- ⚡ Develop AI Agents and Multi-Agent workflows
-- 🌐 Build scalable full-stack web applications
-- 📱 Develop cross-platform mobile applications using React Native & Flutter
-- ☁️ Deploy scalable cloud-native applications
-- 🔐 Design secure REST APIs and enterprise backends
-- 📊 Build intelligent automation solutions for businesses
+* 🌐 Build modern web applications using React, Next.js, Node.js, PHP, Python and TypeScript
+* 📱 Develop cross-platform mobile applications with Flutter and React Native
+* 🔍 Implement SEO strategies that improve search visibility and organic traffic
+* 🤖 Integrate AI-powered features and automation workflows into business systems
+* ☁️ Deploy and manage applications using cloud and DevOps best practices
+* 🗄️ Design scalable APIs, databases, and enterprise-grade architectures
 
 ---
 
-# 🛠️ Technical Expertise
+## 🛠️ Technical Expertise
 
 <div align="center">
 
-## 🤖 AI Engineering
+### 🌐 Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vue.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge\&logo=android\&logoColor=white)
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### 🔍 SEO & Digital Growth
+
+![SEO](https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge\&logo=googleanalytics\&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Keyword Research](https://img.shields.io/badge/Keyword_Research-34A853?style=for-the-badge)
+
+### 🤖 AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -75,102 +107,54 @@ const alex = {
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-14B8A6?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=for-the-badge)
 
----
+### ☁️ Cloud & DevOps
 
-## 🌐 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-
----
-
-## 📱 Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-## 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
 </div>
 
 ---
 
-# 🎯 Areas of Expertise
+## 🎯 Areas of Interest
 
 ```text
-🤖 AI Engineering
-🧠 Large Language Models (LLMs)
-📚 Retrieval-Augmented Generation (RAG)
-⚡ AI Agents & Multi-Agent Systems
-🔗 LangChain • LangGraph • AutoGen • ADK
-🔍 Vector Databases & Semantic Search
-🌐 Full-Stack Development
-📱 Mobile Applications
+📱 Mobile App Development
+🌐 Full-Stack Engineering
+🔍 Search Engine Optimization (SEO)
+🤖 Artificial Intelligence
 ☁️ Cloud Computing
-⚙️ DevOps & CI/CD
-🏗️ Enterprise Software Development
+⚙️ DevOps & Automation
+📊 Data-Driven Products
+🚀 Startup & SaaS Development
 ```
 
 ---
 
-# 📈 Professional Focus
+## 📈 Professional Focus
 
-- 🤖 Building enterprise AI solutions
-- 🧠 Designing Agentic AI workflows
-- 📚 Developing Retrieval-Augmented Generation (RAG) systems
-- ⚡ Intelligent Automation
-- 🌐 Full-Stack SaaS platforms
-- 📱 Cross-platform mobile applications
-- ☁️ Cloud-native architecture
-- 🚀 Open Source & Continuous Learning
+* Building scalable SaaS products
+* Mobile-first application development
+* Technical SEO and website performance optimization
+* AI integrations and intelligent automation
+* Cloud-native deployment strategies
+* Open-source collaboration
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nasialialex.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/alex-nasiali-5076b1372/))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nasiali-5076b1372/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://nasialialex.vercel.app/)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexnasiali45@gmail.com)
+
 
 </div>
 
@@ -178,8 +162,6 @@ const alex = {
 
 <div align="center">
 
-## 🚀 Building Intelligent Software with AI.
-
-*"Turning ideas into scalable, AI-powered solutions that make an impact."*
+### 🚀 Building the future, one commit at a time.
 
 </div>
