@@ -154,6 +154,9 @@ const alex = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://nasialialex.vercel.app/)
 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexnasiali45@gmail.com)
+
+
 
 
 </div>
